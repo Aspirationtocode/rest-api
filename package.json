@@ -1,0 +1,10 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Small app that dives into |REST API|",
+  "main": "index.js",
+  "repository": "https://github.com/Aspirationtocode/rest-api",
+  "author": "Evgeny Kulazhskiy",
+  "license": "MIT",
+  "private": false
+}
